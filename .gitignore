@@ -1,0 +1,13 @@
+# nur die Seite selbst geht online, Originale und Sicherungen bleiben lokal
+*
+!.gitignore
+!index.html
+!favicon.svg
+!favicon-32.png
+!apple-touch-icon.png
+!bilder/
+bilder/*
+!bilder/landschaft.webp
+!bilder/web/
+!bilder/web/**
+!.nojekyll
